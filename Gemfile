@@ -39,3 +39,4 @@ gem 'jquery-rails'
 
 gem 'omniauth'
 gem 'omniauth-facebook', '1.4.0'
+gem 'thin'
