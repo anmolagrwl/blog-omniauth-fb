@@ -1,3 +1,5 @@
+Please rename the folder's name from 'blog3' to 'blog'
+
 https://coderwall.com/p/bsfitw
 
 In case of certificate error:
